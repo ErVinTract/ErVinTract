@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErVinTract
-- 👀 I’m interested in Sport, Programming
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on PHP
+- 👀 I’m interested in Sport, Programming, Music
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me Telegram: @ErVinTract
 
 <!---
